@@ -1,0 +1,5 @@
+streamlit>=1.40,<2.0
+numpy>=1.26
+
+# Opcional: solo necesario para ejecutar los ejemplos de gráficas del chatbot.
+# matplotlib>=3.8
